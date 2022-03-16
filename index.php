@@ -1,3 +1,3 @@
 <?php 
-pathinfo();
+echo (pathinfo());
 ?>
